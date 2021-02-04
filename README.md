@@ -21,12 +21,13 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 :rainbow: I want to learn in the future:
   
   - Ruby
-  - Testing
+  - Android
   - TypeScript
   - Cryptography
   - Artificial intelligence
   - Video and Sound Programs
   - Bots
+  - Testing
   - Unity
   - 2D and 3D Design
   - Italian
