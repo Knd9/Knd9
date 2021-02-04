@@ -14,13 +14,12 @@ I'm Candela. I'am a Computer Science student at FaMAF UNC.
   - Node.js, React.js & Redux
   - FastAPI, PonyORM
   - HTML, CSS, JS
-  - C
+  - C, C++
   - GitLab
   
 
 :rainbow: I want to learn in the future:
   
-  - C++
   - Ruby
   - Testing
   - TypeScript
