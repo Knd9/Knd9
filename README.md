@@ -2,11 +2,11 @@
 
 I'm Candela. I'am a Computer Science student at FaMAF UNC.
 
-- :hearts: I’m currently working on ...
+:hearts: I’m currently working on ...
 
   - Python Software Development
 
-- 🌱 I’m currently learning ...
+🌱 I’m currently learning ...
 
   - Django, Django Rest framework
   - Scala
@@ -18,7 +18,7 @@ I'm Candela. I'am a Computer Science student at FaMAF UNC.
   - GitLab
   
 
-- :rainbow: I want to learn in the future:
+:rainbow: I want to learn in the future:
   
   - C++
   - Ruby
@@ -30,7 +30,7 @@ I'm Candela. I'am a Computer Science student at FaMAF UNC.
   - Bots
   - Italian
 
-- ⚡ Fun fact: rock music lover, guitar and voley apprentice, curious
+⚡ Fun fact: rock music lover, guitar and voley apprentice, curious
 <!--
 **Knd9/Knd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
