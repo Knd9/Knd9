@@ -26,8 +26,9 @@ I'm Candela. I'am a Computer Science student at FaMAF UNC.
   - Cryptography
   - Artificial intelligence
   - Video and Sound Programs
-  - Unity
   - Bots
+  - Unity
+  - 2D and 3D Design
   - Italian
 
 ⚡ Fun fact: rock music lover, guitar and voley apprentice, curious
