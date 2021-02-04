@@ -22,6 +22,7 @@ I'm Candela. I'am a Computer Science student at FaMAF UNC.
   
   - C++
   - Ruby
+  - Testing
   - TypeScript
   - Cryptography
   - Artificial intelligence
