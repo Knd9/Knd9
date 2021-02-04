@@ -1,6 +1,6 @@
 ### Hi!
 
-I'm Candela. I'am a Computer Science student at FaMAF UNC.
+I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
 :hearts: I’m currently working on ...
 
