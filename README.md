@@ -1,10 +1,10 @@
 ### Hi!
 
-I am a Computer Science student at FaMAF UNC.
+I'm Candela. I'am a Computer Science student at FaMAF UNC.
 
-- 🔭 I’m currently working on ...
+- hearts I’m currently working on ...
 
-Python Software Development
+  - Python Software Development
 
 - 🌱 I’m currently learning ...
 
@@ -25,6 +25,7 @@ Python Software Development
   - TypeScript
   - Cryptography
   - Artificial intelligence
+  - Video and Sound Programs
   - Unity
   - Bots
   - Italian
