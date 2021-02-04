@@ -2,7 +2,7 @@
 
 I'm Candela. I'am a Computer Science student at FaMAF UNC.
 
-- hearts I’m currently working on ...
+- :hearts: I’m currently working on ...
 
   - Python Software Development
 
