@@ -18,6 +18,7 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
   - Node.js, React.js & Redux
   - HTML, CSS, JS
   - Scala
+  - Haskell
   - C, C++
 
 :rainbow: I want to learn in the future:
