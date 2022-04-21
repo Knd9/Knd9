@@ -4,33 +4,30 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
 :hearts: I’m currently working on ...
 
-  - Python Software Development
+  - Django & DRF and JQuery Web Development Software 
+  - GitLab, Git, Jira, Bash/Shell
 
 🌱 I’m currently learning ...
 
-  - Django, DRF
-  - Docker
-  - SQL
-  - Node.js, React.js & Redux
-  - JQuery
+  - Docker, Docker-compose
+  - SQL, 
+  - MongoDB
+  - English
   - FastAPI, PonyORM
   - Backend Testing with pytest
+  - Node.js, React.js & Redux
   - HTML, CSS, JS
   - Scala
   - C, C++
-  - GitLab
-  - English
-  
 
 :rainbow: I want to learn in the future:
   
+  - Data Analysis
   - Ruby
   - Android
   - Cybersecurity
   - Cryptography
-  - Artificial intelligence
-  - Video and Sound Programs
-  - Bots
+  - Video and Sound products
   - Unity
   - 2D and 3D Design
   - Italian
