@@ -9,6 +9,7 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
 🌱 I’m currently learning ...
 
+  - Data Analysis
   - Docker, Docker-compose
   - SQL, 
   - MongoDB
@@ -23,7 +24,7 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
 :rainbow: I want to learn in the future:
   
-  - Data Analysis
+  - Matching Learning
   - Ruby
   - Android
   - Cybersecurity
