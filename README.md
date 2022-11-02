@@ -11,6 +11,7 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
   - Data Science
   - Docker, Docker-compose
+  - AWS
   - SQL
   - MongoDB
   - English
