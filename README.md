@@ -9,32 +9,30 @@ I'm Candela. I'am a Computer Science student at FaMAF, UNC.
 
 🌱 I’m currently learning ...
 
-  - Data Analysis
+  - Data Science
   - Docker, Docker-compose
-  - SQL, 
+  - SQL
   - MongoDB
   - English
-  - FastAPI, PonyORM
+  - FastAPI, SQLAlchemy
   - Backend Testing with pytest
-  - Node.js, React.js & Redux
-  - HTML, CSS, JS
   - Scala
   - Haskell
   - C, C++
 
 :rainbow: I want to learn in the future:
   
-  - Matching Learning
+  - Go
   - Ruby
-  - Android
   - Cybersecurity
+  - Movil Development
   - Cryptography
   - Video and Sound products
   - Unity
   - 2D and 3D Design
   - Italian
 
-⚡ Fun fact: rock music lover, guitar and voley apprentice, curious
+⚡ Fun fact: rock music lover, River Plate lover, guitar and voley apprentice, very curious
 <!--
 **Knd9/Knd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
