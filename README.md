@@ -28,12 +28,14 @@ I'm Candela. I'am a Computer Science student at FaMAFyC, UNC.
   - Cybersecurity
   - Movil Development
   - Cryptography
+  - Dev Ops
   - Video and Sound products
   - Unity
   - 2D and 3D Design
   - Italian
+  - Tradding
 
-⚡ Fun fact: rock music lover, River Plate lover, guitar and voley apprentice, very curious
+⚡ Fun fact: music and River Plate lover, guitar and voley apprentice. Very curious
 <!--
 **Knd9/Knd9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
