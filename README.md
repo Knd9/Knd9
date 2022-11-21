@@ -5,7 +5,7 @@ I'm Candela. I'am a Computer Science student at FaMAFyC, UNC.
 :hearts: I’m currently working on ...
 
   - Django & DRF and JQuery Web Development Software, with PostgresSQL
-  - GitLab, git, Jira, Bash/Shell
+  - GitLab, git, Jira, Bash/Shell, Slack
   - Backend testing with Pytest
   - Some of DevOps like Ansible, AWS and Docker & Docker-compose
 
@@ -17,7 +17,8 @@ I'm Candela. I'am a Computer Science student at FaMAFyC, UNC.
 
   - Clean code, and I love do that 💜
   - Googling and read documentation 🔎
-  - I developed in other *frameworks* like FastAPI with PonyORM, and with other database managers like MongoDB or MySQL
+  - I developed in other *frameworks* like FastAPI with PonyORM, and with other *database managers* like MongoDB or MySQL
+  - Design relational-databases 🤓
   - I also developed in languages like Haskell, Scala (which I really enjoyed), C or C++
 
 :rainbow: I want to learn in the future:
