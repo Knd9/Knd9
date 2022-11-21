@@ -15,13 +15,10 @@ I'm Candela. I'am a Computer Science student at FaMAFyC, UNC.
 
 📖 Some of what I learned in my studies
 
-  - Clean code, and I love do that 💜.
-
-  - Googling and read documentation 🔎.
-
-  - I developed in other *frameworks* like FastAPI with the *ORMs* SQLAlchemy and PonyORM, and with other database managers like MongoDB or MySQL. 
-
-  - I also developed in languages like Haskell, Scala (which I really enjoyed), C or C++. 
+  - Clean code, and I love do that 💜
+  - Googling and read documentation 🔎
+  - I developed in other *frameworks* like FastAPI with the *ORMs* SQLAlchemy and PonyORM, and with other database managers like MongoDB or MySQL
+  - I also developed in languages like Haskell, Scala (which I really enjoyed), C or C++
 
 :rainbow: I want to learn in the future:
   
