@@ -7,7 +7,7 @@ I'm Candela. I'am a Computer Science student at FaMAFyC, UNC.
   - Django & DRF and JQuery Web Development Software, with PostgresSQL
   - GitLab, git, Jira, Bash/Shell, Slack, SCRUM
   - Backend testing with Pytest and others
-  - Some of DevOps like Ansible, AWS and Docker & Docker-compose
+  - Some of DevOps like Ansible, AWS and Docker & Docker-compose, Loggly, logging configuration and search
 
 🌱 I’m currently learning ...
 
